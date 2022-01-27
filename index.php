@@ -15,7 +15,7 @@
     <meta name="DCTERMS.license" content="https://creativecommons.org/licenses/by/4.0/" />
     <link rel="icon" type="image/x-icon" href="../../img/j4e.ico" />
     <link rel="stylesheet" href="../../css/box.css" />
-    <link rel="stylesheet" href="../../css/flex.css" />
+    <link rel="stylesheet" href="../../css/flex.css" / >
     <?php
       include('key.php');
       // Wetter: OpenWeatherMap
